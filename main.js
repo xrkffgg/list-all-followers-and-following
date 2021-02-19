@@ -40,7 +40,6 @@ async function run() {
     const followers = await queryFollowers();
     followers.reverse();
     const following = await queryFollowing();
-    following.reverse();
 
     const before = `# 😳 list-all-followers-and-following
 
@@ -52,13 +51,20 @@ Easy view all follows and following. Auto update by GitHub Action.
 
 `;
 
+    function dealBlog(blog) {
+      if (blog) {
+        return `[${blog}](${blog})`;
+      }
+      return '-';
+    }
+
     const middle = `## ${username}
 
-<img src="${user.avatar_url}" width="80" />
+<img src="${user.avatar_url}" width="120" />
 
 | Name | Bio | Blog | Location | Company |
 | -- | -- | -- | -- | -- |
-| ${user.name || '-' } | ${user.bio || '-' } | ${user.blog || '-' } | ${user.location || '-' } | ${user.company || '-' } |
+| ${user.name || '-' } | ${user.bio || '-' } | ${dealBlog(user.blog)} | ${user.location || '-' } | ${user.company || '-' } |
 
 ## Followers <kbd>${followers.length}</kbd>
 
@@ -88,6 +94,9 @@ Copyright (c) 2021-present [xrkffgg](https://github.com/xrkffgg)
 }
 
 function formatTable(arr) {
+  if (arr.length === 0) {
+    return '';
+  }
   let result = '';
   let row = arr.length / 6;
   const lastNo = arr.length % 6;
@@ -95,17 +104,17 @@ function formatTable(arr) {
   for (let j = 1; j <= row; j += 1) {
     let data = '';
     data = `<tr>
-    <td width="160" align="center">${getUser(arr[(j-1)*6])}
+    <td width="150" align="center">${getUser(arr[(j-1)*6])}
     </td>
-    <td width="160" align="center">${getUser(arr[(j-1)*6+1])}
+    <td width="150" align="center">${getUser(arr[(j-1)*6+1])}
     </td>
-    <td width="160" align="center">${getUser(arr[(j-1)*6+2])}
+    <td width="150" align="center">${getUser(arr[(j-1)*6+2])}
     </td>
-    <td width="160" align="center">${getUser(arr[(j-1)*6+3])}
+    <td width="150" align="center">${getUser(arr[(j-1)*6+3])}
     </td>
-    <td width="160" align="center">${getUser(arr[(j-1)*6+4])}
+    <td width="150" align="center">${getUser(arr[(j-1)*6+4])}
     </td>
-    <td width="160" align="center">${getUser(arr[(j-1)*6+5])}
+    <td width="150" align="center">${getUser(arr[(j-1)*6+5])}
     </td>
   </tr>`;
     result += data;
