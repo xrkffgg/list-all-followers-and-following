@@ -1,4 +1,4 @@
-# 😳 list-all-followers-and-following
+# 😳 List All Followers And Following
 
 Easy view all follows and following. Auto update by GitHub Action.
 
