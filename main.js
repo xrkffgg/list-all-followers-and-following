@@ -53,7 +53,7 @@ async function run() {
 
     function dealBlog(blog) {
       if (blog) {
-        return `[${blog}](${blog})`;
+        return `[${blog}](http${blog})`;
       }
       return '-';
     }
