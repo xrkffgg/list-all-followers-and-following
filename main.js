@@ -98,23 +98,21 @@ function formatTable(arr) {
     return '';
   }
   let result = '';
-  let row = arr.length / 6;
-  const lastNo = arr.length % 6;
+  let row = arr.length / 5;
+  const lastNo = arr.length % 5;
   if (lastNo != 0) row += 1;
   for (let j = 1; j <= row; j += 1) {
     let data = '';
     data = `<tr>
-    <td width="150" align="center">${getUser(arr[(j-1)*6])}
+    <td width="150" align="center">${getUser(arr[(j-1)*5])}
     </td>
-    <td width="150" align="center">${getUser(arr[(j-1)*6+1])}
+    <td width="150" align="center">${getUser(arr[(j-1)*5+1])}
     </td>
-    <td width="150" align="center">${getUser(arr[(j-1)*6+2])}
+    <td width="150" align="center">${getUser(arr[(j-1)*5+2])}
     </td>
-    <td width="150" align="center">${getUser(arr[(j-1)*6+3])}
+    <td width="150" align="center">${getUser(arr[(j-1)*5+3])}
     </td>
-    <td width="150" align="center">${getUser(arr[(j-1)*6+4])}
-    </td>
-    <td width="150" align="center">${getUser(arr[(j-1)*6+5])}
+    <td width="150" align="center">${getUser(arr[(j-1)*5+4])}
     </td>
   </tr>`;
     result += data;
