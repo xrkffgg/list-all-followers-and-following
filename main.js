@@ -41,9 +41,9 @@ async function run() {
     followers.reverse();
     const following = await queryFollowing();
 
-    const before = `# 😳 list-all-followers-and-following
+    const before = `# 😳 List All Followers And Following
 
-Easy view all follows and following. Auto update by GitHub Action.
+ Easy view and filter all follows and following. Auto update by GitHub Action.
 
 - Since GitHub's default follows and following does not support paging and filtering
 - [How to use in my own project?](https://github.com/xrkffgg/list-all-followers-and-following/issues/1)
