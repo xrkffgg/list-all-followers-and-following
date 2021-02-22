@@ -19,6 +19,13 @@
 <table>
   <tr>
     <td width="150" align="center">
+      <a href="https://github.com/franck-gaspoz">
+        <img src="https://avatars.githubusercontent.com/u/36030635?v=4" width="50" />
+        <br />
+        franck-gaspoz
+      </a>
+    </td>
+    <td width="150" align="center">
       <a href="https://github.com/youvergood7426">
         <img src="https://avatars.githubusercontent.com/u/75103322?v=4" width="50" />
         <br />
@@ -46,19 +53,12 @@
         Twisted12138
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/532758463">
         <img src="https://avatars.githubusercontent.com/u/39220182?v=4" width="50" />
         <br />
         532758463
-      </a>
-    </td>
-  </tr><tr>
-    <td width="150" align="center">
-      <a href="https://github.com/franck-gaspoz">
-        <img src="https://avatars.githubusercontent.com/u/36030635?v=4" width="50" />
-        <br />
-        franck-gaspoz
       </a>
     </td>
     <td width="150" align="center">
