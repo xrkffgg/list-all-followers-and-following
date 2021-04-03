@@ -19,6 +19,13 @@
 <table>
   <tr>
     <td width="150" align="center">
+      <a href="https://github.com/justStarNew">
+        <img src="https://avatars.githubusercontent.com/u/18233711?v=4" width="50" />
+        <br />
+        justStarNew
+      </a>
+    </td>
+    <td width="150" align="center">
       <a href="https://github.com/p697">
         <img src="https://avatars.githubusercontent.com/u/51314472?v=4" width="50" />
         <br />
@@ -46,6 +53,7 @@
         AlanCutFlim
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/royal2710">
         <img src="https://avatars.githubusercontent.com/u/52915822?v=4" width="50" />
@@ -53,7 +61,6 @@
         royal2710
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/visiky">
         <img src="https://avatars.githubusercontent.com/u/15646325?v=4" width="50" />
@@ -82,6 +89,7 @@
         smarthug
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/yansj2016">
         <img src="https://avatars.githubusercontent.com/u/24471719?v=4" width="50" />
@@ -89,19 +97,11 @@
         yansj2016
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/ericlee33">
         <img src="https://avatars.githubusercontent.com/u/50297178?v=4" width="50" />
         <br />
         ericlee33
-      </a>
-    </td>
-    <td width="150" align="center">
-      <a href="https://github.com/tianyuan233">
-        <img src="https://avatars.githubusercontent.com/u/33889406?v=4" width="50" />
-        <br />
-        tianyuan233
       </a>
     </td>
     <td width="150" align="center">
