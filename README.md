@@ -14,7 +14,7 @@
 | -- | -- | -- | -- | -- |
 | - | 喵 5 | [xrkffgg.github.io](https://xrkffgg.github.io) | Beijing, China | - |
 
-## Followers <kbd>170</kbd>
+## Followers <kbd>169</kbd>
 
 <table>
   <tr>
@@ -1163,20 +1163,13 @@
       </a>
     </td>
     <td width="150" align="center">
-      <a href="https://github.com/liekkas9">
-        <img src="https://avatars.githubusercontent.com/u/9941052?v=4" width="50" />
-        <br />
-        liekkas9
-      </a>
-    </td>
-  </tr><tr>
-    <td width="150" align="center">
       <a href="https://github.com/uustoboy">
         <img src="https://avatars.githubusercontent.com/u/19792777?v=4" width="50" />
         <br />
         uustoboy
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/afc163">
         <img src="https://avatars.githubusercontent.com/u/507615?v=4" width="50" />
@@ -1205,7 +1198,6 @@
         moocstudent
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/Karolyna84">
         <img src="https://avatars.githubusercontent.com/u/43585182?v=4" width="50" />
@@ -1213,6 +1205,7 @@
         Karolyna84
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/JavaAIer">
         <img src="https://avatars.githubusercontent.com/u/44077290?v=4" width="50" />
@@ -1240,6 +1233,8 @@
         <br />
         god-like520
       </a>
+    </td>
+    <td width="150" align="center">
     </td>
   </tr>
 </table>
