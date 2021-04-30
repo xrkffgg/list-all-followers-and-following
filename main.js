@@ -64,7 +64,7 @@ async function run() {
 
 | Name | Bio | Blog | Location | Company |
 | -- | -- | -- | -- | -- |
-| ${user.name || '-' } | ${user.bio || '-' } | ${dealBlog(user.blog)} | ${user.location || '-' } | ${user.company || '-' } |
+| ${user.name || '-' } | ${user.bio || '-' } | ${dealBlog(user.blog)} | ${user.location || '-' } | ${getCompany(user.company)} |
 
 ## Followers <kbd>${followers.length}</kbd>
 
@@ -131,5 +131,14 @@ function getUser(user) {
   }
   return '';
 }
+
+function getCompany(c) {
+  if (c) {
+    c = c.replace('@', '');
+    return `[@${c}](https://github.com/${c})`;
+  }
+  return `-`;
+}
+
 
 run();
