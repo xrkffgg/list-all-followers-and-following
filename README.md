@@ -112,10 +112,10 @@
       </a>
     </td>
     <td width="150" align="center">
-      <a href="https://github.com/mixmaster7">
+      <a href="https://github.com/ryancharley">
         <img src="https://avatars.githubusercontent.com/u/45306501?v=4" width="50" />
         <br />
-        mixmaster7
+        ryancharley
       </a>
     </td>
     <td width="150" align="center">
