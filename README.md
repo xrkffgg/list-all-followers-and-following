@@ -19,6 +19,13 @@
 <table>
   <tr>
     <td width="150" align="center">
+      <a href="https://github.com/meteorlxy">
+        <img src="https://avatars.githubusercontent.com/u/18205362?v=4" width="50" />
+        <br />
+        meteorlxy
+      </a>
+    </td>
+    <td width="150" align="center">
       <a href="https://github.com/Flaka69">
         <img src="https://avatars.githubusercontent.com/u/84758333?v=4" width="50" />
         <br />
@@ -46,6 +53,7 @@
         jiweiyuan
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/congshengwu">
         <img src="https://avatars.githubusercontent.com/u/26167428?v=4" width="50" />
@@ -53,7 +61,6 @@
         congshengwu
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/pinhe91">
         <img src="https://avatars.githubusercontent.com/u/79625284?v=4" width="50" />
@@ -82,6 +89,7 @@
         JulyEve
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/Deturium">
         <img src="https://avatars.githubusercontent.com/u/19731097?v=4" width="50" />
@@ -89,7 +97,6 @@
         Deturium
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/cAqua">
         <img src="https://avatars.githubusercontent.com/u/58762163?v=4" width="50" />
@@ -116,13 +123,6 @@
         <img src="https://avatars.githubusercontent.com/u/45306501?v=4" width="50" />
         <br />
         ryancharley
-      </a>
-    </td>
-    <td width="150" align="center">
-      <a href="https://github.com/primexdev">
-        <img src="https://avatars.githubusercontent.com/u/79852091?v=4" width="50" />
-        <br />
-        primexdev
       </a>
     </td>
   </tr><tr>
