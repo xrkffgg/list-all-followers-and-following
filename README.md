@@ -1342,7 +1342,7 @@
   </tr>
 </table>
 
-## Following <kbd>234</kbd>
+## Following <kbd>235</kbd>
 
 <table>
   <tr>
@@ -3003,6 +3003,13 @@
     </td>
   </tr><tr>
     <td width="150" align="center">
+      <a href="https://github.com/pearmini">
+        <img src="https://avatars.githubusercontent.com/u/49330279?v=4" width="50" />
+        <br />
+        pearmini
+      </a>
+    </td>
+    <td width="150" align="center">
       <a href="https://github.com/ajuner">
         <img src="https://avatars.githubusercontent.com/u/53512912?v=4" width="50" />
         <br />
@@ -3029,8 +3036,6 @@
         <br />
         yuanyao1225
       </a>
-    </td>
-    <td width="150" align="center">
     </td>
   </tr>
 </table>
