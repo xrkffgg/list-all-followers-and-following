@@ -256,10 +256,10 @@
       </a>
     </td>
     <td width="150" align="center">
-      <a href="https://github.com/royal2710">
+      <a href="https://github.com/nichitapro">
         <img src="https://avatars.githubusercontent.com/u/52915822?v=4" width="50" />
         <br />
-        royal2710
+        nichitapro
       </a>
     </td>
     <td width="150" align="center">
@@ -1171,10 +1171,10 @@
     </td>
   </tr><tr>
     <td width="150" align="center">
-      <a href="https://github.com/zmlng">
+      <a href="https://github.com/mlzzen">
         <img src="https://avatars.githubusercontent.com/u/11664505?v=4" width="50" />
         <br />
-        zmlng
+        mlzzen
       </a>
     </td>
     <td width="150" align="center">
