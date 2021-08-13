@@ -1257,10 +1257,10 @@
       </a>
     </td>
     <td width="150" align="center">
-      <a href="https://github.com/chacexie">
+      <a href="https://github.com/chace-tse">
         <img src="https://avatars.githubusercontent.com/u/8861289?v=4" width="50" />
         <br />
-        chacexie
+        chace-tse
       </a>
     </td>
     <td width="150" align="center">
