@@ -739,10 +739,10 @@
     </td>
   </tr><tr>
     <td width="150" align="center">
-      <a href="https://github.com/furkan-ceylan">
+      <a href="https://github.com/fcyln">
         <img src="https://avatars.githubusercontent.com/u/32003938?v=4" width="50" />
         <br />
-        furkan-ceylan
+        fcyln
       </a>
     </td>
     <td width="150" align="center">
