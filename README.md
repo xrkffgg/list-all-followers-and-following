@@ -386,10 +386,10 @@
       </a>
     </td>
     <td width="150" align="center">
-      <a href="https://github.com/lalamisdn">
+      <a href="https://github.com/idurar">
         <img src="https://avatars.githubusercontent.com/u/50052356?v=4" width="50" />
         <br />
-        lalamisdn
+        idurar
       </a>
     </td>
     <td width="150" align="center">
