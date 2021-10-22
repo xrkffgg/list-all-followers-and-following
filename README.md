@@ -847,10 +847,10 @@
     </td>
   </tr><tr>
     <td width="150" align="center">
-      <a href="https://github.com/fcyln">
+      <a href="https://github.com/furkan-ceylan">
         <img src="https://avatars.githubusercontent.com/u/32003938?v=4" width="50" />
         <br />
-        fcyln
+        furkan-ceylan
       </a>
     </td>
     <td width="150" align="center">
