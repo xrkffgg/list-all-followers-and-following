@@ -1944,7 +1944,7 @@
   </tr>
 </table>
 
-## Following <kbd>249</kbd>
+## Following <kbd>248</kbd>
 
 <table>
   <tr>
@@ -3691,13 +3691,6 @@
       </a>
     </td>
     <td width="150" align="center">
-      <a href="https://github.com/HollowMan6">
-        <img src="https://avatars.githubusercontent.com/u/43995067?v=4" width="50" />
-        <br />
-        HollowMan6
-      </a>
-    </td>
-    <td width="150" align="center">
       <a href="https://github.com/antfin-oss">
         <img src="https://avatars.githubusercontent.com/u/48939886?v=4" width="50" />
         <br />
@@ -3711,7 +3704,6 @@
         pearmini
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/ajuner">
         <img src="https://avatars.githubusercontent.com/u/53512912?v=4" width="50" />
@@ -3719,6 +3711,7 @@
         ajuner
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/Neteraxe">
         <img src="https://avatars.githubusercontent.com/u/53852392?v=4" width="50" />
@@ -3739,6 +3732,8 @@
         <br />
         yuanyao1225
       </a>
+    </td>
+    <td width="150" align="center">
     </td>
     <td width="150" align="center">
     </td>
