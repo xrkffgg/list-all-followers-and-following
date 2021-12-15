@@ -121,15 +121,12 @@ function formatTable(arr) {
 }
 
 function getUser(user) {
-  if (user) {
-    return `
+  return user ?  `
       <a href="${user.html_url}">
         <img src="${user.avatar_url}" width="50" />
         <br />
         ${user.login}
-      </a>`
-  }
-  return '';
+      </a>` : '';
 }
 
 function getCompany(c) {
