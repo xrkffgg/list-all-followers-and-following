@@ -328,10 +328,10 @@
       </a>
     </td>
     <td width="150" align="center">
-      <a href="https://github.com/JoonhunLee">
+      <a href="https://github.com/leejoonhun">
         <img src="https://avatars.githubusercontent.com/u/61962637?v=4" width="50" />
         <br />
-        JoonhunLee
+        leejoonhun
       </a>
     </td>
     <td width="150" align="center">
