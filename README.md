@@ -26,6 +26,13 @@
       </a>
     </td>
     <td width="150" align="center">
+      <a href="https://github.com/TopCodeBeast">
+        <img src="https://avatars.githubusercontent.com/u/93806749?v=4" width="50" />
+        <br />
+        TopCodeBeast
+      </a>
+    </td>
+    <td width="150" align="center">
       <a href="https://github.com/khankhalil">
         <img src="https://avatars.githubusercontent.com/u/92295237?v=4" width="50" />
         <br />
@@ -46,6 +53,7 @@
         erfanmoshashaei
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/Atlantis-18">
         <img src="https://avatars.githubusercontent.com/u/92268962?v=4" width="50" />
@@ -53,7 +61,6 @@
         Atlantis-18
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/Justus03">
         <img src="https://avatars.githubusercontent.com/u/92258644?v=4" width="50" />
@@ -73,13 +80,6 @@
         <img src="https://avatars.githubusercontent.com/u/90421601?v=4" width="50" />
         <br />
         meredithcoyne
-      </a>
-    </td>
-    <td width="150" align="center">
-      <a href="https://github.com/trollmao">
-        <img src="https://avatars.githubusercontent.com/u/88042940?v=4" width="50" />
-        <br />
-        trollmao
       </a>
     </td>
     <td width="150" align="center">
@@ -962,10 +962,10 @@
       </a>
     </td>
     <td width="150" align="center">
-      <a href="https://github.com/hc9937">
+      <a href="https://github.com/hc2937">
         <img src="https://avatars.githubusercontent.com/u/30150098?v=4" width="50" />
         <br />
-        hc9937
+        hc2937
       </a>
     </td>
     <td width="150" align="center">
