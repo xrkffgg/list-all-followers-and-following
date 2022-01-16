@@ -962,10 +962,10 @@
       </a>
     </td>
     <td width="150" align="center">
-      <a href="https://github.com/hc2937">
+      <a href="https://github.com/hc52937">
         <img src="https://avatars.githubusercontent.com/u/30150098?v=4" width="50" />
         <br />
-        hc2937
+        hc52937
       </a>
     </td>
     <td width="150" align="center">
@@ -1387,10 +1387,10 @@
     </td>
   </tr><tr>
     <td width="150" align="center">
-      <a href="https://github.com/theprimone">
+      <a href="https://github.com/yunslove">
         <img src="https://avatars.githubusercontent.com/u/18096089?v=4" width="50" />
         <br />
-        theprimone
+        yunslove
       </a>
     </td>
     <td width="150" align="center">
