@@ -1387,10 +1387,10 @@
     </td>
   </tr><tr>
     <td width="150" align="center">
-      <a href="https://github.com/yunslove">
+      <a href="https://github.com/yunsii">
         <img src="https://avatars.githubusercontent.com/u/18096089?v=4" width="50" />
         <br />
-        yunslove
+        yunsii
       </a>
     </td>
     <td width="150" align="center">
