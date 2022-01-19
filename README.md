@@ -148,10 +148,10 @@
       </a>
     </td>
     <td width="150" align="center">
-      <a href="https://github.com/DrThomasPeng">
+      <a href="https://github.com/AuroraAeon">
         <img src="https://avatars.githubusercontent.com/u/77328339?v=4" width="50" />
         <br />
-        DrThomasPeng
+        AuroraAeon
       </a>
     </td>
     <td width="150" align="center">
@@ -962,10 +962,10 @@
       </a>
     </td>
     <td width="150" align="center">
-      <a href="https://github.com/hc52937">
+      <a href="https://github.com/cc2937">
         <img src="https://avatars.githubusercontent.com/u/30150098?v=4" width="50" />
         <br />
-        hc52937
+        cc2937
       </a>
     </td>
     <td width="150" align="center">
