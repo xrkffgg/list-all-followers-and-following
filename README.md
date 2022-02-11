@@ -1545,10 +1545,10 @@
       </a>
     </td>
     <td width="150" align="center">
-      <a href="https://github.com/lengthmin">
+      <a href="https://github.com/bytemain">
         <img src="https://avatars.githubusercontent.com/u/13938334?v=4" width="50" />
         <br />
-        lengthmin
+        bytemain
       </a>
     </td>
     <td width="150" align="center">
@@ -3350,10 +3350,10 @@
       </a>
     </td>
     <td width="150" align="center">
-      <a href="https://github.com/lengthmin">
+      <a href="https://github.com/bytemain">
         <img src="https://avatars.githubusercontent.com/u/13938334?v=4" width="50" />
         <br />
-        lengthmin
+        bytemain
       </a>
     </td>
   </tr><tr>
