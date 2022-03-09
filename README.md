@@ -991,10 +991,10 @@
     </td>
   </tr><tr>
     <td width="150" align="center">
-      <a href="https://github.com/MrSoumyaGhosh">
+      <a href="https://github.com/i-m-soumya">
         <img src="https://avatars.githubusercontent.com/u/33210199?v=4" width="50" />
         <br />
-        MrSoumyaGhosh
+        i-m-soumya
       </a>
     </td>
     <td width="150" align="center">
