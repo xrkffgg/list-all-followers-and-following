@@ -141,10 +141,10 @@
       </a>
     </td>
     <td width="150" align="center">
-      <a href="https://github.com/Ayakocode">
+      <a href="https://github.com/skizz-dev">
         <img src="https://avatars.githubusercontent.com/u/82006962?v=4" width="50" />
         <br />
-        Ayakocode
+        skizz-dev
       </a>
     </td>
     <td width="150" align="center">
