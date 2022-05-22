@@ -155,10 +155,10 @@
       </a>
     </td>
     <td width="150" align="center">
-      <a href="https://github.com/SkyzZ-dev">
+      <a href="https://github.com/Azura888">
         <img src="https://avatars.githubusercontent.com/u/82006962?v=4" width="50" />
         <br />
-        SkyzZ-dev
+        Azura888
       </a>
     </td>
   </tr><tr>
