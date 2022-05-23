@@ -112,10 +112,10 @@
       </a>
     </td>
     <td width="150" align="center">
-      <a href="https://github.com/nittaya1990">
+      <a href="https://github.com/dgfug">
         <img src="https://avatars.githubusercontent.com/u/87558849?v=4" width="50" />
         <br />
-        nittaya1990
+        dgfug
       </a>
     </td>
     <td width="150" align="center">
@@ -155,10 +155,10 @@
       </a>
     </td>
     <td width="150" align="center">
-      <a href="https://github.com/Azura888">
+      <a href="https://github.com/maalone2408">
         <img src="https://avatars.githubusercontent.com/u/82006962?v=4" width="50" />
         <br />
-        Azura888
+        maalone2408
       </a>
     </td>
   </tr><tr>
@@ -328,20 +328,12 @@
       </a>
     </td>
     <td width="150" align="center">
-      <a href="https://github.com/AkuraDiary">
-        <img src="https://avatars.githubusercontent.com/u/68726268?v=4" width="50" />
-        <br />
-        AkuraDiary
-      </a>
-    </td>
-    <td width="150" align="center">
       <a href="https://github.com/nvenitius">
         <img src="https://avatars.githubusercontent.com/u/67573790?v=4" width="50" />
         <br />
         nvenitius
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/besimgurpinar">
         <img src="https://avatars.githubusercontent.com/u/66904611?v=4" width="50" />
@@ -349,6 +341,7 @@
         besimgurpinar
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/Hassan9oo">
         <img src="https://avatars.githubusercontent.com/u/66202826?v=4" width="50" />
@@ -375,6 +368,13 @@
         <img src="https://avatars.githubusercontent.com/u/65482530?v=4" width="50" />
         <br />
         Jealh-h
+      </a>
+    </td>
+    <td width="150" align="center">
+      <a href="https://github.com/sskela">
+        <img src="https://avatars.githubusercontent.com/u/65283311?v=4" width="50" />
+        <br />
+        sskela
       </a>
     </td>
   </tr><tr>
