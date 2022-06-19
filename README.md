@@ -19,10 +19,10 @@
 <table>
   <tr>
     <td width="150" align="center">
-      <a href="https://github.com/karnesha">
+      <a href="https://github.com/trueW0101">
         <img src="https://avatars.githubusercontent.com/u/105612113?v=4" width="50" />
         <br />
-        karnesha
+        trueW0101
       </a>
     </td>
     <td width="150" align="center">
