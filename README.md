@@ -170,10 +170,10 @@
       </a>
     </td>
     <td width="150" align="center">
-      <a href="https://github.com/maalone2408">
+      <a href="https://github.com/Zedrox888">
         <img src="https://avatars.githubusercontent.com/u/82006962?v=4" width="50" />
         <br />
-        maalone2408
+        Zedrox888
       </a>
     </td>
     <td width="150" align="center">
