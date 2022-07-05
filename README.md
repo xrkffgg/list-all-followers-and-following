@@ -163,10 +163,10 @@
     </td>
   </tr><tr>
     <td width="150" align="center">
-      <a href="https://github.com/bkt-tonton">
+      <a href="https://github.com/wes-boss">
         <img src="https://avatars.githubusercontent.com/u/82295321?v=4" width="50" />
         <br />
-        bkt-tonton
+        wes-boss
       </a>
     </td>
     <td width="150" align="center">
