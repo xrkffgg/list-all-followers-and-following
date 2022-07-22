@@ -191,10 +191,10 @@
       </a>
     </td>
     <td width="150" align="center">
-      <a href="https://github.com/Zedrox888">
+      <a href="https://github.com/Zertox-dev">
         <img src="https://avatars.githubusercontent.com/u/82006962?v=4" width="50" />
         <br />
-        Zedrox888
+        Zertox-dev
       </a>
     </td>
   </tr><tr>
@@ -429,10 +429,10 @@
       </a>
     </td>
     <td width="150" align="center">
-      <a href="https://github.com/sskela">
+      <a href="https://github.com/alekssze">
         <img src="https://avatars.githubusercontent.com/u/65283311?v=4" width="50" />
         <br />
-        sskela
+        alekssze
       </a>
     </td>
     <td width="150" align="center">
