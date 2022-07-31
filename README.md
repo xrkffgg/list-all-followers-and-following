@@ -14,7 +14,7 @@
 | -- | -- | -- | -- | -- |
 | - | 喵 5  ~  元凛 | [xrkffgg.github.io](https://xrkffgg.github.io) | Hangzhou, China | [@alipay](https://github.com/alipay) |
 
-## Followers <kbd>337</kbd>
+## Followers <kbd>336</kbd>
 
 <table>
   <tr>
@@ -2308,20 +2308,12 @@
       </a>
     </td>
     <td width="150" align="center">
-      <a href="https://github.com/pasord">
-        <img src="https://avatars.githubusercontent.com/u/5137843?v=4" width="50" />
-        <br />
-        pasord
-      </a>
-    </td>
-    <td width="150" align="center">
       <a href="https://github.com/CN-Sean">
         <img src="https://avatars.githubusercontent.com/u/5130176?v=4" width="50" />
         <br />
         CN-Sean
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/PeachScript">
         <img src="https://avatars.githubusercontent.com/u/5035925?v=4" width="50" />
@@ -2329,6 +2321,7 @@
         PeachScript
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/apchenjun">
         <img src="https://avatars.githubusercontent.com/u/4964551?v=4" width="50" />
@@ -2357,7 +2350,6 @@
         mehdiraized
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/hansnow">
         <img src="https://avatars.githubusercontent.com/u/4365899?v=4" width="50" />
@@ -2365,6 +2357,7 @@
         hansnow
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/zhanba">
         <img src="https://avatars.githubusercontent.com/u/4224253?v=4" width="50" />
@@ -2393,7 +2386,6 @@
         JackieLin
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/willin">
         <img src="https://avatars.githubusercontent.com/u/1890238?v=4" width="50" />
@@ -2401,6 +2393,7 @@
         willin
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/DevenLu">
         <img src="https://avatars.githubusercontent.com/u/1639720?v=4" width="50" />
@@ -2429,7 +2422,6 @@
         cloudyan
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/afc163">
         <img src="https://avatars.githubusercontent.com/u/507615?v=4" width="50" />
@@ -2437,12 +2429,15 @@
         afc163
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/yesmeck">
         <img src="https://avatars.githubusercontent.com/u/465125?v=4" width="50" />
         <br />
         yesmeck
       </a>
+    </td>
+    <td width="150" align="center">
     </td>
     <td width="150" align="center">
     </td>
