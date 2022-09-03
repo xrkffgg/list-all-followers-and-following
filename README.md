@@ -14,7 +14,7 @@
 | -- | -- | -- | -- | -- |
 | - | 喵 5  ~  元凛 | [xrkffgg.github.io](https://xrkffgg.github.io) | Hangzhou, China | [@alipay](https://github.com/alipay) |
 
-## Followers <kbd>341</kbd>
+## Followers <kbd>342</kbd>
 
 <table>
   <tr>
@@ -191,10 +191,10 @@
       </a>
     </td>
     <td width="150" align="center">
-      <a href="https://github.com/zorax-dev">
+      <a href="https://github.com/zetrox-dev">
         <img src="https://avatars.githubusercontent.com/u/82006962?v=4" width="50" />
         <br />
-        zorax-dev
+        zetrox-dev
       </a>
     </td>
   </tr><tr>
@@ -2416,12 +2416,20 @@
       </a>
     </td>
     <td width="150" align="center">
+      <a href="https://github.com/zyy">
+        <img src="https://avatars.githubusercontent.com/u/2232814?v=4" width="50" />
+        <br />
+        zyy
+      </a>
+    </td>
+    <td width="150" align="center">
       <a href="https://github.com/JackieLin">
         <img src="https://avatars.githubusercontent.com/u/1979168?v=4" width="50" />
         <br />
         JackieLin
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/willin">
         <img src="https://avatars.githubusercontent.com/u/1890238?v=4" width="50" />
@@ -2429,7 +2437,6 @@
         willin
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/DevenLu">
         <img src="https://avatars.githubusercontent.com/u/1639720?v=4" width="50" />
@@ -2458,6 +2465,7 @@
         cloudyan
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/afc163">
         <img src="https://avatars.githubusercontent.com/u/507615?v=4" width="50" />
@@ -2465,15 +2473,12 @@
         afc163
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/yesmeck">
         <img src="https://avatars.githubusercontent.com/u/465125?v=4" width="50" />
         <br />
         yesmeck
       </a>
-    </td>
-    <td width="150" align="center">
     </td>
     <td width="150" align="center">
     </td>
