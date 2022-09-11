@@ -458,10 +458,10 @@
       </a>
     </td>
     <td width="150" align="center">
-      <a href="https://github.com/miko-github">
+      <a href="https://github.com/mikoloism">
         <img src="https://avatars.githubusercontent.com/u/64307152?v=4" width="50" />
         <br />
-        miko-github
+        mikoloism
       </a>
     </td>
     <td width="150" align="center">
