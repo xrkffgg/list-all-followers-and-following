@@ -573,10 +573,10 @@
       </a>
     </td>
     <td width="150" align="center">
-      <a href="https://github.com/OkamiMks">
+      <a href="https://github.com/Okami0xff666">
         <img src="https://avatars.githubusercontent.com/u/58578838?v=4" width="50" />
         <br />
-        OkamiMks
+        Okami0xff666
       </a>
     </td>
     <td width="150" align="center">
