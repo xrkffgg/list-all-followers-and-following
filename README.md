@@ -213,10 +213,10 @@
       </a>
     </td>
     <td width="150" align="center">
-      <a href="https://github.com/zetrox-dev">
+      <a href="https://github.com/mrthenatdev">
         <img src="https://avatars.githubusercontent.com/u/82006962?v=4" width="50" />
         <br />
-        zetrox-dev
+        mrthenatdev
       </a>
     </td>
     <td width="150" align="center">
