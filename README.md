@@ -220,10 +220,10 @@
       </a>
     </td>
     <td width="150" align="center">
-      <a href="https://github.com/Thenatdev">
+      <a href="https://github.com/Asunna4">
         <img src="https://avatars.githubusercontent.com/u/82006962?v=4" width="50" />
         <br />
-        Thenatdev
+        Asunna4
       </a>
     </td>
     <td width="150" align="center">
