@@ -19,10 +19,10 @@
 <table>
   <tr>
     <td width="150" align="center">
-      <a href="https://github.com/thehacker-wiz-zz">
+      <a href="https://github.com/annie-n3">
         <img src="https://avatars.githubusercontent.com/u/122740951?v=4" width="50" />
         <br />
-        thehacker-wiz-zz
+        annie-n3
       </a>
     </td>
     <td width="150" align="center">
