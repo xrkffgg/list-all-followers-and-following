@@ -8,7 +8,7 @@
 
 ## mdhumairraza
 
-<img src="https://avatars.githubusercontent.com/u/29775873?v=4" width="120" />
+<img src="https://avatars.githubusercontent.com/u/19521054?v=4" width="120" />
 
 | Name | Bio | Blog | Location | Company |
 | -- | -- | -- | -- | -- |
