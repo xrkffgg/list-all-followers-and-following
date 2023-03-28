@@ -20,8 +20,8 @@ jobs:
       - name: Commit and push if changed
         run: |-
           git diff
-          git config user.email "github-actions[bot]@users.noreply.github.com"
-          git config user.name "github-actions[bot]"
+          git config user.email "mdhumairraza@yahoo.com"
+          git config user.name "mdhumairraza"
           git pull
           git add -A
           git commit -m "🤖 Auto update README" || exit 0
