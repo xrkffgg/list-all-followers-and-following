@@ -26,10 +26,10 @@
       </a>
     </td>
     <td width="150" align="center">
-      <a href="https://github.com/annie-n3">
+      <a href="https://github.com/bl4ckh47G1rl">
         <img src="https://avatars.githubusercontent.com/u/122740951?v=4" width="50" />
         <br />
-        annie-n3
+        bl4ckh47G1rl
       </a>
     </td>
     <td width="150" align="center">
