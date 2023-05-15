@@ -3733,10 +3733,10 @@
     </td>
   </tr><tr>
     <td width="150" align="center">
-      <a href="https://github.com/pratv4">
+      <a href="https://github.com/pratyushv3">
         <img src="https://avatars.githubusercontent.com/u/7577656?v=4" width="50" />
         <br />
-        pratv4
+        pratyushv3
       </a>
     </td>
     <td width="150" align="center">
