@@ -731,10 +731,10 @@
       </a>
     </td>
     <td width="150" align="center">
-      <a href="https://github.com/SedationH">
+      <a href="https://github.com/sedationh">
         <img src="https://avatars.githubusercontent.com/u/56129212?v=4" width="50" />
         <br />
-        SedationH
+        sedationh
       </a>
     </td>
   </tr><tr>
