@@ -19,10 +19,10 @@
 <table>
   <tr>
     <td width="150" align="center">
-      <a href="https://github.com/bl4ckh47G1rl">
+      <a href="https://github.com/V1nni00">
         <img src="https://avatars.githubusercontent.com/u/122740951?v=4" width="50" />
         <br />
-        bl4ckh47G1rl
+        V1nni00
       </a>
     </td>
     <td width="150" align="center">
@@ -40,12 +40,20 @@
       </a>
     </td>
     <td width="150" align="center">
+      <a href="https://github.com/Connell-z">
+        <img src="https://avatars.githubusercontent.com/u/112607513?v=4" width="50" />
+        <br />
+        Connell-z
+      </a>
+    </td>
+    <td width="150" align="center">
       <a href="https://github.com/Tekmily">
         <img src="https://avatars.githubusercontent.com/u/110921402?v=4" width="50" />
         <br />
         Tekmily
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/AntonRomanenkov">
         <img src="https://avatars.githubusercontent.com/u/110619377?v=4" width="50" />
@@ -53,7 +61,6 @@
         AntonRomanenkov
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/Dangozzk">
         <img src="https://avatars.githubusercontent.com/u/108709364?v=4" width="50" />
@@ -82,6 +89,7 @@
         X-GitHub-De1ivery
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/JCSIVO">
         <img src="https://avatars.githubusercontent.com/u/104387283?v=4" width="50" />
@@ -89,19 +97,11 @@
         JCSIVO
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/nevo-david">
         <img src="https://avatars.githubusercontent.com/u/100117126?v=4" width="50" />
         <br />
         nevo-david
-      </a>
-    </td>
-    <td width="150" align="center">
-      <a href="https://github.com/cumsoft">
-        <img src="https://avatars.githubusercontent.com/u/97250816?v=4" width="50" />
-        <br />
-        cumsoft
       </a>
     </td>
     <td width="150" align="center">
