@@ -14,7 +14,7 @@
 | -- | -- | -- | -- | -- |
 | - | 喵 5  ~  元凛 | [xrkffgg.github.io](https://xrkffgg.github.io) | Hangzhou, China | [@alipay](https://github.com/alipay) |
 
-## Followers <kbd>380</kbd>
+## Followers <kbd>379</kbd>
 
 <table>
   <tr>
@@ -2683,13 +2683,6 @@
     </td>
   </tr><tr>
     <td width="150" align="center">
-      <a href="https://github.com/kvnol">
-        <img src="https://avatars.githubusercontent.com/u/3299130?v=4" width="50" />
-        <br />
-        kvnol
-      </a>
-    </td>
-    <td width="150" align="center">
       <a href="https://github.com/JackieLin">
         <img src="https://avatars.githubusercontent.com/u/1979168?v=4" width="50" />
         <br />
@@ -2717,7 +2710,6 @@
         steelops
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/santoe">
         <img src="https://avatars.githubusercontent.com/u/1162203?v=4" width="50" />
@@ -2725,6 +2717,7 @@
         santoe
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/cloudyan">
         <img src="https://avatars.githubusercontent.com/u/912821?v=4" width="50" />
@@ -2752,6 +2745,8 @@
         <br />
         cfleschhut
       </a>
+    </td>
+    <td width="150" align="center">
     </td>
   </tr>
 </table>
