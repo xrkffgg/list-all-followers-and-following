@@ -962,10 +962,10 @@
       </a>
     </td>
     <td width="150" align="center">
-      <a href="https://github.com/TwistedLC">
+      <a href="https://github.com/Twisted928">
         <img src="https://avatars.githubusercontent.com/u/46923858?v=4" width="50" />
         <br />
-        TwistedLC
+        Twisted928
       </a>
     </td>
     <td width="150" align="center">
