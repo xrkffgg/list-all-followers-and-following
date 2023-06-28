@@ -3780,10 +3780,10 @@
       </a>
     </td>
     <td width="150" align="center">
-      <a href="https://github.com/pratyushv3">
+      <a href="https://github.com/npc-prat">
         <img src="https://avatars.githubusercontent.com/u/7577656?v=4" width="50" />
         <br />
-        pratyushv3
+        npc-prat
       </a>
     </td>
     <td width="150" align="center">
