@@ -1523,10 +1523,10 @@
       </a>
     </td>
     <td width="150" align="center">
-      <a href="https://github.com/hclj37">
+      <a href="https://github.com/hcljsq">
         <img src="https://avatars.githubusercontent.com/u/30150098?v=4" width="50" />
         <br />
-        hclj37
+        hcljsq
       </a>
     </td>
   </tr><tr>
