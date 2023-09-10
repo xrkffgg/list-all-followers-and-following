@@ -4217,10 +4217,10 @@
     </td>
   </tr><tr>
     <td width="150" align="center">
-      <a href="https://github.com/lxchuan12">
+      <a href="https://github.com/ruochuan12">
         <img src="https://avatars.githubusercontent.com/u/15962539?v=4" width="50" />
         <br />
-        lxchuan12
+        ruochuan12
       </a>
     </td>
     <td width="150" align="center">
