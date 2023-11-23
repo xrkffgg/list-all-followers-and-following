@@ -2877,10 +2877,10 @@
       </a>
     </td>
     <td width="150" align="center">
-      <a href="https://github.com/maxogden">
+      <a href="https://github.com/max-mapper">
         <img src="https://avatars.githubusercontent.com/u/39759?v=4" width="50" />
         <br />
-        maxogden
+        max-mapper
       </a>
     </td>
   </tr><tr>
