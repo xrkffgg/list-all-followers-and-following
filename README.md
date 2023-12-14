@@ -292,10 +292,10 @@
       </a>
     </td>
     <td width="150" align="center">
-      <a href="https://github.com/wal-wizard">
+      <a href="https://github.com/eu-waliston">
         <img src="https://avatars.githubusercontent.com/u/82295321?v=4" width="50" />
         <br />
-        wal-wizard
+        eu-waliston
       </a>
     </td>
     <td width="150" align="center">
