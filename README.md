@@ -3763,10 +3763,10 @@
       </a>
     </td>
     <td width="150" align="center">
-      <a href="https://github.com/trungk18">
+      <a href="https://github.com/trungvose">
         <img src="https://avatars.githubusercontent.com/u/6767322?v=4" width="50" />
         <br />
-        trungk18
+        trungvose
       </a>
     </td>
     <td width="150" align="center">
