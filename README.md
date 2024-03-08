@@ -2596,10 +2596,10 @@
       </a>
     </td>
     <td width="150" align="center">
-      <a href="https://github.com/n0ruSh">
+      <a href="https://github.com/headwindz">
         <img src="https://avatars.githubusercontent.com/u/7504237?v=4" width="50" />
         <br />
-        n0ruSh
+        headwindz
       </a>
     </td>
     <td width="150" align="center">
@@ -3850,10 +3850,10 @@
       </a>
     </td>
     <td width="150" align="center">
-      <a href="https://github.com/n0ruSh">
+      <a href="https://github.com/headwindz">
         <img src="https://avatars.githubusercontent.com/u/7504237?v=4" width="50" />
         <br />
-        n0ruSh
+        headwindz
       </a>
     </td>
     <td width="150" align="center">
