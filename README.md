@@ -631,10 +631,10 @@
     </td>
   </tr><tr>
     <td width="150" align="center">
-      <a href="https://github.com/qbsz">
+      <a href="https://github.com/kanadeCN">
         <img src="https://avatars.githubusercontent.com/u/63999920?v=4" width="50" />
         <br />
-        qbsz
+        kanadeCN
       </a>
     </td>
     <td width="150" align="center">
