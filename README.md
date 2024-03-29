@@ -868,10 +868,10 @@
       </a>
     </td>
     <td width="150" align="center">
-      <a href="https://github.com/JiuRiend">
+      <a href="https://github.com/naikokodayo">
         <img src="https://avatars.githubusercontent.com/u/51844673?v=4" width="50" />
         <br />
-        JiuRiend
+        naikokodayo
       </a>
     </td>
     <td width="150" align="center">
