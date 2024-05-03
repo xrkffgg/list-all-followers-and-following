@@ -91,10 +91,10 @@
     </td>
   </tr><tr>
     <td width="150" align="center">
-      <a href="https://github.com/0x00G">
+      <a href="https://github.com/uanc">
         <img src="https://avatars.githubusercontent.com/u/114768995?v=4" width="50" />
         <br />
-        0x00G
+        uanc
       </a>
     </td>
     <td width="150" align="center">
