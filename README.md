@@ -753,10 +753,10 @@
       </a>
     </td>
     <td width="150" align="center">
-      <a href="https://github.com/richiesuper">
+      <a href="https://github.com/idgiaayrwm">
         <img src="https://avatars.githubusercontent.com/u/63583194?v=4" width="50" />
         <br />
-        richiesuper
+        idgiaayrwm
       </a>
     </td>
     <td width="150" align="center">
