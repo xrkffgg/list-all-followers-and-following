@@ -127,10 +127,10 @@
     </td>
   </tr><tr>
     <td width="150" align="center">
-      <a href="https://github.com/uanc">
+      <a href="https://github.com/restriction">
         <img src="https://avatars.githubusercontent.com/u/114768995?v=4" width="50" />
         <br />
-        uanc
+        restriction
       </a>
     </td>
     <td width="150" align="center">
@@ -1365,10 +1365,10 @@
       </a>
     </td>
     <td width="150" align="center">
-      <a href="https://github.com/JasperZhang66">
+      <a href="https://github.com/JasonZhang10">
         <img src="https://avatars.githubusercontent.com/u/38876628?v=4" width="50" />
         <br />
-        JasperZhang66
+        JasonZhang10
       </a>
     </td>
     <td width="150" align="center">
