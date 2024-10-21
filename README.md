@@ -753,10 +753,10 @@
       </a>
     </td>
     <td width="150" align="center">
-      <a href="https://github.com/idgiaayrwm">
+      <a href="https://github.com/faillock">
         <img src="https://avatars.githubusercontent.com/u/63583194?v=4" width="50" />
         <br />
-        idgiaayrwm
+        faillock
       </a>
     </td>
     <td width="150" align="center">
