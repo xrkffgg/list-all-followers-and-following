@@ -14,7 +14,7 @@
 | -- | -- | -- | -- | -- |
 | - | 喵 5  ~  元凛 | [xrkffgg.github.io](https://xrkffgg.github.io) | Hangzhou, China | [@alipay](https://github.com/alipay) |
 
-## Followers <kbd>422</kbd>
+## Followers <kbd>423</kbd>
 
 <table>
   <tr>
@@ -1747,10 +1747,10 @@
     </td>
   </tr><tr>
     <td width="150" align="center">
-      <a href="https://github.com/alexjohndoe">
+      <a href="https://github.com/0xtoorich">
         <img src="https://avatars.githubusercontent.com/u/30150098?v=4" width="50" />
         <br />
-        alexjohndoe
+        0xtoorich
       </a>
     </td>
     <td width="150" align="center">
@@ -2999,13 +2999,20 @@
       </a>
     </td>
     <td width="150" align="center">
+      <a href="https://github.com/trinhminhtriet">
+        <img src="https://avatars.githubusercontent.com/u/1650997?v=4" width="50" />
+        <br />
+        trinhminhtriet
+      </a>
+    </td>
+  </tr><tr>
+    <td width="150" align="center">
       <a href="https://github.com/DevenLu">
         <img src="https://avatars.githubusercontent.com/u/1639720?v=4" width="50" />
         <br />
         DevenLu
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/steelops">
         <img src="https://avatars.githubusercontent.com/u/1369801?v=4" width="50" />
@@ -3034,6 +3041,7 @@
         afc163
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/yesmeck">
         <img src="https://avatars.githubusercontent.com/u/465125?v=4" width="50" />
@@ -3041,7 +3049,6 @@
         yesmeck
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/Neustradamus">
         <img src="https://avatars.githubusercontent.com/u/104737?v=4" width="50" />
@@ -3055,8 +3062,6 @@
         <br />
         cfleschhut
       </a>
-    </td>
-    <td width="150" align="center">
     </td>
     <td width="150" align="center">
     </td>
