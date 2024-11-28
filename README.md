@@ -2906,10 +2906,10 @@
       </a>
     </td>
     <td width="150" align="center">
-      <a href="https://github.com/CN-Sean">
+      <a href="https://github.com/SeanScript">
         <img src="https://avatars.githubusercontent.com/u/5130176?v=4" width="50" />
         <br />
-        CN-Sean
+        SeanScript
       </a>
     </td>
     <td width="150" align="center">
