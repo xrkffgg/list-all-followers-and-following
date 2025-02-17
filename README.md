@@ -4937,10 +4937,10 @@
     </td>
   </tr><tr>
     <td width="150" align="center">
-      <a href="https://github.com/Tomotoes">
+      <a href="https://github.com/SimonAKing">
         <img src="https://avatars.githubusercontent.com/u/32236122?v=4" width="50" />
         <br />
-        Tomotoes
+        SimonAKing
       </a>
     </td>
     <td width="150" align="center">
