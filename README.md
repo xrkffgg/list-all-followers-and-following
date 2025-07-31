@@ -1300,10 +1300,10 @@
       </a>
     </td>
     <td width="150" align="center">
-      <a href="https://github.com/chaozhangdev">
+      <a href="https://github.com/rdz-dev">
         <img src="https://avatars.githubusercontent.com/u/43924959?v=4" width="50" />
         <br />
-        chaozhangdev
+        rdz-dev
       </a>
     </td>
     <td width="150" align="center">
