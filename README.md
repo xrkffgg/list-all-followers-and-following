@@ -933,10 +933,10 @@
       </a>
     </td>
     <td width="150" align="center">
-      <a href="https://github.com/Meet-student">
+      <a href="https://github.com/meet-student">
         <img src="https://avatars.githubusercontent.com/u/59312002?v=4" width="50" />
         <br />
-        Meet-student
+        meet-student
       </a>
     </td>
     <td width="150" align="center">
