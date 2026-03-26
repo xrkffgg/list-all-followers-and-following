@@ -206,10 +206,10 @@
       </a>
     </td>
     <td width="150" align="center">
-      <a href="https://github.com/restriction">
+      <a href="https://github.com/offset">
         <img src="https://avatars.githubusercontent.com/u/114768995?v=4" width="50" />
         <br />
-        restriction
+        offset
       </a>
     </td>
     <td width="150" align="center">
