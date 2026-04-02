@@ -1365,10 +1365,10 @@
       </a>
     </td>
     <td width="150" align="center">
-      <a href="https://github.com/TingzhouJia">
+      <a href="https://github.com/joejellicoejia">
         <img src="https://avatars.githubusercontent.com/u/44245347?v=4" width="50" />
         <br />
-        TingzhouJia
+        joejellicoejia
       </a>
     </td>
     <td width="150" align="center">
@@ -1473,10 +1473,10 @@
       </a>
     </td>
     <td width="150" align="center">
-      <a href="https://github.com/AlexNguyen27">
+      <a href="https://github.com/ngocthanh-codertrove">
         <img src="https://avatars.githubusercontent.com/u/42112757?v=4" width="50" />
         <br />
-        AlexNguyen27
+        ngocthanh-codertrove
       </a>
     </td>
     <td width="150" align="center">
