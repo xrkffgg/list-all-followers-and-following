@@ -112,10 +112,10 @@
       </a>
     </td>
     <td width="150" align="center">
-      <a href="https://github.com/aymanbouanouj">
+      <a href="https://github.com/aymanbounaouj">
         <img src="https://avatars.githubusercontent.com/u/152039415?v=4" width="50" />
         <br />
-        aymanbouanouj
+        aymanbounaouj
       </a>
     </td>
     <td width="150" align="center">
